@@ -1,11 +1,9 @@
- 
+import Component from "./components/Component" 
 
 const App = () => {
   return (
     <div>
-      <h1>
-        Hello JS-17
-      </h1>
+     <Component/>
     </div>
   )
 }
